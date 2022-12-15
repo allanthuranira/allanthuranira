@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... blockchain and smart contracts
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @allanthuranira on linkedn.com
--
+- @Allan Mwithali on twitter
 
 <!---
 allanthuranira/allanthuranira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
