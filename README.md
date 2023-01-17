@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @allanthuranira
 - 👀 I’m interested in ... javascript and blockchain.
 - 🌱 I’m currently learning ... blockchain and smart contracts
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on all the above programming languages...
 - 📫 How to reach me ... @allanthuranira on linkedn.com
 - @Allan Mwithali on twitter
 
